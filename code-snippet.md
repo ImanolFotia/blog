@@ -9,7 +9,7 @@ category: "Random"
 
 ## and this is a subtitle
 
-```c++
+```cpp
 #include <print>
 
 int main() {
