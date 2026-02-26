@@ -1,3 +1,9 @@
+---
+title: "Compiling glew for Code::Blocks"
+date: 2017-03-16
+author: "Imanol Fotia"
+category: "Programming"
+---
 A few days ago I bought a new laptop and started to configure my environment for graphics development, and one of the biggest headaches that I ran into, was compiling GLEW for use in Code::Blocks, since the only pre-compiled binaries that GLEW provides are for Microsoft Visual Studio.
 
 After some failed attemps to compile it using the IDE, I gave up and went for the console approach.
