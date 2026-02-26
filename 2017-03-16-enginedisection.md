@@ -1,3 +1,9 @@
+---
+title: "Engine Disection"
+date: 2017-03-16
+author: "Imanol Fotia"
+category: "Graphics"
+---
 <h1>This Post is not yet completed</h1>
 
 <h2>Setting Up the G-buffer</h2>
