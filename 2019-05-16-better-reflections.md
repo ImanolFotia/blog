@@ -1,5 +1,5 @@
 ---
-title: "Better reflection"
+title: "Better Reflections"
 date: 2019-05-16
 author: "Imanol Fotia"
 category: "Graphics"
@@ -63,4 +63,5 @@ Even though it is a really nice looking effect, I can't recomend using it for ot
 {% include image.html url="/media/reflections0.jpg" width=900 align="left" %}
 
 {% include image.html url="/media/reflections1.jpg" width=900 align="left" %}
+
 
