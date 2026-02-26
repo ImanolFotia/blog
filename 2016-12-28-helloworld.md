@@ -1,3 +1,9 @@
+---
+title: "Hello World"
+date: 2016-12-28
+author: "Imanol Fotia"
+category: "Programming"
+---
 
 Because starting a page with "hello world" would be too cliche, I will start this website with something more useful for us programmers, the Inverse Square Root:
 
