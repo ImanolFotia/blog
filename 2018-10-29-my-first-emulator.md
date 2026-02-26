@@ -1,3 +1,9 @@
+---
+title: "Venturing into Hardware Emulation"
+date: 2018-10-29
+author: "Imanol Fotia"
+category: "Emulation"
+---
 # Venturing into Hardware Emulation
 
 <img src="https://raw.githubusercontent.com/ImanolFotia/Chip-8-Emulator/master/captures/c1.png"/>
