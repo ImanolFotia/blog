@@ -4,6 +4,7 @@ date: 2019-05-16
 author: "Imanol Fotia"
 category: "Graphics"
 ---
+
 A couple of years ago, I updated my blog with my implementation of screen space reflections (which you can see [here](http://imanolfotia.com/blog/update/2017/03/11/ScreenSpaceReflections.html)), at the time I used a hash function to jitter the reflection ray based on the surface's roughness. 
 
 ```cpp
@@ -63,5 +64,6 @@ Even though it is a really nice looking effect, I can't recomend using it for ot
 {% include image.html url="/media/reflections0.jpg" width=900 align="left" %}
 
 {% include image.html url="/media/reflections1.jpg" width=900 align="left" %}
+
 
 
